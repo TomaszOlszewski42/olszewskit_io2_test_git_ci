@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="src/StringCalculator/StringCalculator.csproj" Id="f3357e20-8928-4f92-8754-8ef668d99ec7" />
+  <Project Path="src/StringCalculatorTests/StringCalculatorTests.csproj" Id="28c22edc-7c38-45a9-8272-db3fb0687759" />
+</Solution>
